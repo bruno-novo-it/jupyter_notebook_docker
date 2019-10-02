@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 ## Kill the container if it is already running and 
 docker rm -f jupyter || true 
 
