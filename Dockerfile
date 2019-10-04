@@ -1,5 +1,14 @@
 FROM phusion/baseimage:latest-amd64
 
+## Phusion base Image 
+# https://hub.docker.com/r/phusion/baseimage/tags
+
+## OpenCV Installing example using Alpine
+# https://qiita.com/teratsyk/items/7d7b401001c09e3694ab
+
+## OpenCV Releases
+# https://github.com/opencv/opencv/releases
+
 ## Configuring the locales and language settings to UTF-8.
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
