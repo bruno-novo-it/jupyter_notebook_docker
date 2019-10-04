@@ -12,12 +12,12 @@ jupyter
 jupyter-tensorboard
 jupyter_contrib_nbextensions
 matplotlib
-numpy
 pandas
 pickleshare
 pillow
 plotly
 pygments
+pytesseract
 requests
 scipy
 scikit-learn
