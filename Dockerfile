@@ -1,6 +1,6 @@
 FROM phusion/baseimage:latest-amd64
 
-## Phusion base Image 
+## Phusion base Image
 # https://hub.docker.com/r/phusion/baseimage/tags
 
 ## OpenCV Installing example using Alpine

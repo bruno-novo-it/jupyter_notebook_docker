@@ -4,6 +4,7 @@ bash-kernel
 bokeh
 cython
 docutils
+folium
 geopy
 graphviz
 imageio
